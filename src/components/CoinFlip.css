@@ -1,0 +1,36 @@
+.account{
+    color: yellowgreen;
+}
+
+.amount-box{
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
+.radio1{
+    justify-content: space-between;
+    top: 8px;
+    position: relative;
+    color: yellowgreen;
+    font-weight: bold;
+}
+
+.radio2{
+    justify-content: space-between;
+    top: 8px;
+    position: relative;
+    color: yellowgreen;
+    font-weight: bolder;
+}
+
+.flip{
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.flip:hover{
+    padding: 10px;
+}
